@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @wizgurl101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+Hello there Stranger (or friend or foe?) from the internet :)
+
+Welcome to my Github profile, this is the place where I put my personal projects and ones from online courses I am taking to further improve my skills.
+
+🌱 I’m currently learning ...
+Docker and Kubernetes from I Udemy course I brought.  Because I like to tinker and have no clue about the operations side of the software development cycle.  Here to change that :D
 
 
 <!---
