@@ -4,6 +4,8 @@ Welcome to my Github profile, this is the place where I put my personal projects
 
 ✨✨✨ What I’m currently learning in 2024:
 - Typescript
+- Storybook
+- DevOps (GitHub Actions, Google Cloud Platform)
 - Kotlin & Android
 
 <!---
