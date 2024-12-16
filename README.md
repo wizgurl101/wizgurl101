@@ -4,6 +4,7 @@ Hello there Stranger (or friend or foe?) from the internet :)
 - Nextjs and Typescript
 - Go lang
 - Nest framework
+- Hack the Box modules
 - DevOps (GitHub Actions, Google Cloud Platform)
 
 <!---
