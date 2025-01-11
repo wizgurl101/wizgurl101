@@ -1,6 +1,6 @@
 Hello there Stranger (or friend or foe?) from the internet :)
 
-✨✨✨ What I’m learning in 2024 and into 2025:
+✨✨✨ What I’m learning in 2025:
 - Improve my JS skills: Learning Nextjs, Nest and Typescript
 - Go lang & gRPC
 - Android development
